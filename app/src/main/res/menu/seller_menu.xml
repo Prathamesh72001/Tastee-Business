@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/ic_feed"
+        android:title="Feed"
+        android:icon="@drawable/icon_selection"
+        android:enabled="true"/>
+
+    <item android:id="@+id/ic_disc"
+        android:title="Promotion"
+        android:icon="@drawable/discount_selection"
+        android:enabled="true"/>
+
+    <item android:id="@+id/ic_gallery"
+        android:title="Gallery"
+        android:icon="@drawable/gallery_selection"
+        android:enabled="true"/>
+
+    <item android:id="@+id/ic_details"
+        android:title="Details"
+        android:icon="@drawable/details_selection"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/invisible"
+        android:enabled="false"
+        android:visible="false"
+        android:icon="@drawable/ic_baseline_cancel_24"
+        android:title="Default" />
+</menu>

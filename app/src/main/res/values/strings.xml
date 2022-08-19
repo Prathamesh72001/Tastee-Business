@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HungryHeadz Business</string>
+    <string name="string_no_connection">No Internet</string>
+    <string name="string_failed_loading">Failed Loading App</string>
+    <string name="string_failed_loading_description">Failed loading app! Cross check your internet connectivity and try again.</string>
+    <string name="string_check_connection">Please check your internet connection and try again.</string>
+    <string name="string_allow_camera">Allow HungryHeadz Business to access your camera?</string>
+    <string name="string_allow_camera_description">This lets you do things like take and share photos.</string>
+    <string name="string_allow_storage">Allow HungryHeadz Business to access your storage?</string>
+    <string name="string_allow_gps">Allow HungryHeadz Business to access your storage?</string>
+    <string name="string_allow_storage_description">This lets you do things like choose and share photos.</string>
+</resources>
